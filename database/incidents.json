@@ -1,0 +1,26 @@
+[
+  {
+    "id": 101,
+    "title": "High Latency on User Data Storage",
+    "service": "User Data Storage API",
+    "status": "investigating",
+    "time": "12 minutes ago",
+    "impact": "Minor"
+  },
+  {
+    "id": 102,
+    "title": "503 Service Unavailable Error",
+    "service": "AI Recommendation Worker",
+    "status": "identified",
+    "time": "45 minutes ago",
+    "impact": "Major"
+  },
+  {
+    "id": 103,
+    "title": "Scheduled Maintenance Completed",
+    "service": "Database Layer",
+    "status": "resolved",
+    "time": "5 hours ago",
+    "impact": "None"
+  }
+]
